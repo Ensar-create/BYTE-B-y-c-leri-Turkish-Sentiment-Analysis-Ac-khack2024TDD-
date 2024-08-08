@@ -1,1 +1,1 @@
-# BYTE-B-y-c-leri-Turkish-Sentiment-Analysis-Ac-khack2024TDD-
+# BYTE-Buyuculeri-Turkish-Sentiment-Analysis-Acikhack2024TDD-
